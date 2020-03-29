@@ -1,0 +1,1 @@
+# Logistic-Regression-dengan-data-diabetes-Jantung
